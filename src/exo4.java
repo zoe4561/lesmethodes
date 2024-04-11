@@ -19,5 +19,6 @@ public class exo4
 
         }
         System.out.println("The sum is: " + sum);
+
     }
 }
